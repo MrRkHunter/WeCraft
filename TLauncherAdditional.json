@@ -1,0 +1,1167 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "skipHashsumValidation": false,
+  "additionalFiles": [
+    {
+      "sha1": "150346d1c0b4acec0b4eb7f58b86e3ea1aa730f3",
+      "size": 7123832,
+      "path": "libraries/net/minecraft/client/1.19-20220607.102129/client-1.19-20220607.102129-mappings.txt",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.19-20220607.102129/client-1.19-20220607.102129-mappings.txt"
+    },
+    {
+      "sha1": "fccc071b9a5431b020297df2b9032c91feca8b34",
+      "size": 17078871,
+      "path": "libraries/net/minecraft/client/1.19-20220607.102129/client-1.19-20220607.102129-srg.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.19-20220607.102129/client-1.19-20220607.102129-srg.jar"
+    },
+    {
+      "sha1": "cbf5f5b4d923c882fe53af304ad6a2089ea685b2",
+      "size": 9992704,
+      "path": "libraries/net/minecraft/client/1.19-20220607.102129/client-1.19-20220607.102129-extra.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.19-20220607.102129/client-1.19-20220607.102129-extra.jar"
+    },
+    {
+      "sha1": "921f492f1ed1431f6378d3dc10d9d06bc8e5422b",
+      "size": 11469703,
+      "path": "libraries/net/minecraft/client/1.19-20220607.102129/client-1.19-20220607.102129-slim.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.19-20220607.102129/client-1.19-20220607.102129-slim.jar"
+    },
+    {
+      "sha1": "eb4522117346e95cca5f33c4026668e146ce0bf4",
+      "size": 2476874,
+      "path": "libraries/net/minecraftforge/forge/1.19-41.0.38/forge-1.19-41.0.38-universal.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.19-41.0.38/forge-1.19-41.0.38-universal.jar"
+    },
+    {
+      "sha1": "c095c7dd4c64c1b28f2b6ef791b022e45cbae56b",
+      "size": 5086273,
+      "path": "libraries/net/minecraftforge/forge/1.19-41.0.38/forge-1.19-41.0.38-client.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.19-41.0.38/forge-1.19-41.0.38-client.jar"
+    },
+    {
+      "sha1": "9e4a1ba785ade9b5a9dcad55e6cb8675764af81f",
+      "size": 111639,
+      "path": "libraries/net/minecraftforge/fmlcore/1.19-41.0.38/fmlcore-1.19-41.0.38.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/fmlcore/1.19-41.0.38/fmlcore-1.19-41.0.38.jar"
+    },
+    {
+      "sha1": "eb9b2d574d97dcb4192f47bf7ce7d6214a595ee9",
+      "size": 16326,
+      "path": "libraries/net/minecraftforge/javafmllanguage/1.19-41.0.38/javafmllanguage-1.19-41.0.38.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/javafmllanguage/1.19-41.0.38/javafmllanguage-1.19-41.0.38.jar"
+    },
+    {
+      "sha1": "68555bc49f609bc63802c842c3ea476b1ed80d89",
+      "size": 4986,
+      "path": "libraries/net/minecraftforge/mclanguage/1.19-41.0.38/mclanguage-1.19-41.0.38.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/mclanguage/1.19-41.0.38/mclanguage-1.19-41.0.38.jar"
+    },
+    {
+      "sha1": "33760059bf0750fff5251d284557b93c8e7449af",
+      "size": 7381,
+      "path": "libraries/net/minecraftforge/lowcodelanguage/1.19-41.0.38/lowcodelanguage-1.19-41.0.38.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/lowcodelanguage/1.19-41.0.38/lowcodelanguage-1.19-41.0.38.jar"
+    }
+  ],
+  "tlauncherVersion": 0,
+  "modpack": {
+    "modpackMemory": false,
+    "memory": 0,
+    "id": -137882283606999,
+    "name": "WeCraft",
+    "favorite": false,
+    "version": {
+      "mods": [
+        {
+          "stateGameElement": "active",
+          "id": 459701,
+          "name": "Catalogue",
+          "favorite": false,
+          "version": {
+            "id": 3822882,
+            "name": "1.6.1",
+            "metadata": {
+              "sha1": "aa7dcee5049f0284e8fb3f5a7799611a90cc6387",
+              "size": 98382,
+              "path": "mods/catalogue-1.6.1-1.19.jar",
+              "url": "/mods/459701/3822882/catalogue-1.6.1-1.19.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 457570,
+              "name": "Configured",
+              "gameEntityId": 457570,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 457570,
+          "name": "Configured",
+          "favorite": false,
+          "version": {
+            "id": 3822820,
+            "name": "1.5.3",
+            "metadata": {
+              "sha1": "4a340094d0e7d50aee0382e85ecc52d85a93c94b",
+              "size": 139802,
+              "path": "mods/configured-1.5.3-1.19.jar",
+              "url": "/mods/457570/3822820/configured-1.5.3-1.19.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 459701,
+              "name": "Catalogue",
+              "gameEntityId": 459701,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 55438,
+          "name": "MrCrayfish's Furniture Mod",
+          "favorite": false,
+          "version": {
+            "id": 3833728,
+            "name": "Furniture Mod 7.0.0-pre31",
+            "metadata": {
+              "sha1": "e75f59e78aa009258e2c877f481cb8ec24c2c6c4",
+              "size": 2197508,
+              "path": "mods/cfm-7.0.0-pre31-1.19.jar",
+              "url": "/mods/55438/3833728/cfm-7.0.0-pre31-1.19.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 459701,
+              "name": "Catalogue",
+              "gameEntityId": 459701,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 457570,
+              "name": "Configured",
+              "gameEntityId": 457570,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 32274,
+          "name": "JourneyMap",
+          "favorite": false,
+          "version": {
+            "id": 3834645,
+            "name": "journeymap-1.19-5.8.5rc2-forge",
+            "metadata": {
+              "sha1": "f97871370237fd35e9b6a20bcb23e0c49d791fcf",
+              "size": 7025360,
+              "path": "mods/journeymap-1.19-5.8.5rc2-forge.jar",
+              "url": "/mods/32274/3834645/journeymap-1.19-5.8.5rc2-forge.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 226005,
+              "name": "JourneyMap Tools",
+              "gameEntityId": 226005,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 309927,
+          "name": "Curios API (Forge)",
+          "favorite": false,
+          "version": {
+            "id": 3822219,
+            "name": "curios-forge-1.19-5.1.0.0",
+            "metadata": {
+              "sha1": "83af2fb2897f51eaf4ae9ae464d1e677e464b3e9",
+              "size": 265148,
+              "path": "mods/curios-forge-1.19-5.1.0.0.jar",
+              "url": "/mods/309927/3822219/curios-forge-1.19-5.1.0.0.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 273744,
+          "name": "U Team Core",
+          "favorite": false,
+          "version": {
+            "id": 3827764,
+            "name": "U-Team-Core-1.19-4.1.0.217",
+            "metadata": {
+              "sha1": "4dec0749fd6d8b783ad8198c074648e0ca79580e",
+              "size": 384966,
+              "path": "mods/u_team_core-1.19-4.1.0.217.jar",
+              "url": "/mods/273744/3827764/u_team_core-1.19-4.1.0.217.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 453627,
+              "name": "Basic Discord Rich Presence",
+              "gameEntityId": 453627,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 238222,
+              "name": "Just Enough Items (JEI)",
+              "gameEntityId": 238222,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 238222,
+          "name": "Just Enough Items (JEI)",
+          "favorite": false,
+          "version": {
+            "id": 3835406,
+            "name": "jei-1.19-forge-11.0.0.206",
+            "metadata": {
+              "sha1": "b62e01da7719edd702aab4836dcb9e7c9e665963",
+              "size": 1012140,
+              "path": "mods/jei-1.19-forge-11.0.0.206.jar",
+              "url": "/mods/238222/3835406/jei-1.19-forge-11.0.0.206.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 274338,
+          "name": "Useful Backpacks",
+          "favorite": false,
+          "version": {
+            "id": 3825399,
+            "name": "Useful-Backpacks-1.19-1.13.0.96",
+            "metadata": {
+              "sha1": "8bf9141cecc31d8627de8f44c65aa0a85d9589da",
+              "size": 168378,
+              "path": "mods/useful_backpacks-1.19-1.13.0.96.jar",
+              "url": "/mods/274338/3825399/useful_backpacks-1.19-1.13.0.96.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 309927,
+              "name": "Curios API (Forge)",
+              "gameEntityId": 309927,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 273744,
+              "name": "U Team Core",
+              "gameEntityId": 273744,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 238222,
+              "name": "Just Enough Items (JEI)",
+              "gameEntityId": 238222,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 342584,
+          "name": "Collective (Forge)",
+          "favorite": false,
+          "version": {
+            "id": 3822135,
+            "name": "collective-1.19.0-4.28",
+            "metadata": {
+              "sha1": "646b05081c4d2426ecdc8c2654a94959e7f68622",
+              "size": 145325,
+              "path": "mods/collective-1.19.0-4.28.jar",
+              "url": "/mods/342584/3822135/collective-1.19.0-4.28.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 367178,
+          "name": "Tree Harvester (Forge)",
+          "favorite": false,
+          "version": {
+            "id": 3821814,
+            "name": "treeharvester_1.19.0-5.1",
+            "metadata": {
+              "sha1": "9e52fc1c55314da969b7679f2d11f379663cef8d",
+              "size": 22996,
+              "path": "mods/treeharvester_1.19.0-5.1.jar",
+              "url": "/mods/367178/3821814/treeharvester_1.19.0-5.1.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 342584,
+              "name": "Collective (Forge)",
+              "gameEntityId": 342584,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 263420,
+          "name": "Xaero's Minimap",
+          "favorite": false,
+          "version": {
+            "id": 3835774,
+            "name": "v22.9.3 for Fabric 1.19",
+            "metadata": {
+              "sha1": "8016307a0851c8cd3adbdb2293a9aa9403ea6df2",
+              "size": 1255681,
+              "path": "mods/Xaeros_Minimap_22.9.3_Fabric_1.19.jar",
+              "url": "/mods/263420/3835774/Xaeros_Minimap_22.9.3_Fabric_1.19.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 357540,
+          "name": "Inventory HUD+",
+          "favorite": false,
+          "version": {
+            "id": 3824175,
+            "name": "[Forge.1.19.x]  (v3.4.5)",
+            "metadata": {
+              "sha1": "78cb3f3c672b5c58801e7e70f40aa95c55fddfb0",
+              "size": 200996,
+              "path": "mods/InventoryHud_[1.19].forge-3.4.5.jar",
+              "url": "/mods/357540/3824175/InventoryHud_%5B1.19%5D.forge-3.4.5.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 324717,
+          "name": "Jade 🔍",
+          "favorite": false,
+          "version": {
+            "id": 3836188,
+            "name": "Jade-1.19-fabric-7.4.0",
+            "metadata": {
+              "sha1": "4b7144d9fcf7aa79473177637c45db3fd2f00867",
+              "size": 325427,
+              "path": "mods/Jade-1.19-fabric-7.4.0.jar",
+              "url": "/mods/324717/3836188/Jade-1.19-fabric-7.4.0.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 238551,
+          "name": "GraveStone Mod",
+          "favorite": false,
+          "version": {
+            "id": 3833023,
+            "name": "[1.19] Gravestone Mod 1.19-1.0.1",
+            "metadata": {
+              "sha1": "264b3f125b2360edd0370a9e773d5e22fe0fa53c",
+              "size": 249022,
+              "path": "mods/gravestone-1.19-1.0.1.jar",
+              "url": "/mods/238551/3833023/gravestone-1.19-1.0.1.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 324717,
+              "name": "Jade 🔍",
+              "gameEntityId": 324717,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 250419,
+          "name": "Enchantment Descriptions",
+          "favorite": false,
+          "version": {
+            "id": 3829144,
+            "name": "Fabric-1.19-11.0.4",
+            "metadata": {
+              "sha1": "d4a094a0982b89e7ae3abef22a58438f6370306b",
+              "size": 46628,
+              "path": "mods/EnchantmentDescriptions-Fabric-1.19-11.0.4.jar",
+              "url": "/mods/250419/3829144/EnchantmentDescriptions-Fabric-1.19-11.0.4.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 228525,
+              "name": "Bookshelf",
+              "gameEntityId": 228525,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 350955,
+          "name": "MoreVanillaArmor",
+          "favorite": false,
+          "version": {
+            "id": 3826362,
+            "name": "1.19-4.0.1",
+            "metadata": {
+              "sha1": "20117def1ac46e7e0c3d2790975c0589e7a28247",
+              "size": 229491,
+              "path": "mods/MoreVanillaArmor-1.19-4.0.1.jar",
+              "url": "/mods/350955/3826362/MoreVanillaArmor-1.19-4.0.1.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 306612,
+          "name": "Fabric API",
+          "favorite": false,
+          "version": {
+            "id": 3831112,
+            "name": "[1.19]  0.56.0+1.19",
+            "metadata": {
+              "sha1": "2a5fee56f601cb61b704ac0d8740ccde5b12a9c7",
+              "size": 1486213,
+              "path": "mods/fabric-api-0.56.0+1.19.jar",
+              "url": "/mods/306612/3831112/fabric-api-0.56.0+1.19.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 419699,
+          "name": "Architectury API (FabricForge)",
+          "favorite": false,
+          "version": {
+            "id": 3834396,
+            "name": "[Fabric 1.19] v5.7.27",
+            "metadata": {
+              "sha1": "b1585ffd38c67619101e86c3c6319fa52efebf7c",
+              "size": 551610,
+              "path": "mods/architectury-5.7.27-fabric.jar",
+              "url": "/mods/419699/3834396/architectury-5.7.27-fabric.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 412525,
+          "name": "LibX",
+          "favorite": false,
+          "version": {
+            "id": 3834938,
+            "name": "1.19-4.0.3",
+            "metadata": {
+              "sha1": "1c91633f18af6cf250630b24809ac3db2b61bc97",
+              "size": 879635,
+              "path": "mods/LibX-1.19-4.0.3.jar",
+              "url": "/mods/412525/3834938/LibX-1.19-4.0.3.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 367254,
+          "name": "MoreVanillaLib",
+          "favorite": false,
+          "version": {
+            "id": 3834620,
+            "name": "1.19-4.0.0",
+            "metadata": {
+              "sha1": "0be8f54e331c8e7525d8f6bbade9d864eabad47c",
+              "size": 54506,
+              "path": "mods/MoreVanillaLib-1.19-4.0.0.jar",
+              "url": "/mods/367254/3834620/MoreVanillaLib-1.19-4.0.0.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 238222,
+              "name": "Just Enough Items (JEI)",
+              "gameEntityId": 238222,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 349504,
+          "name": "MoreVanillaTools",
+          "favorite": false,
+          "version": {
+            "id": 3834934,
+            "name": "1.19-5.0.2",
+            "metadata": {
+              "sha1": "3c187bc024f0a83c59faba90ac10c6259eb69063",
+              "size": 175465,
+              "path": "mods/MoreVanillaTools-1.19-5.0.2.jar",
+              "url": "/mods/349504/3834934/MoreVanillaTools-1.19-5.0.2.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 412525,
+              "name": "LibX",
+              "gameEntityId": 412525,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 238222,
+              "name": "Just Enough Items (JEI)",
+              "gameEntityId": 238222,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 367254,
+              "name": "MoreVanillaLib",
+              "gameEntityId": 367254,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -172820153729400,
+          "name": "tl_skin_cape_forge_1.19-1.26",
+          "favorite": false,
+          "version": {
+            "id": -172820155775900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "c635b67bd607b22ad0bc113f9e4982c9847164d3",
+              "size": 568223,
+              "path": "mods/tl_skin_cape_forge_1.19-1.26.jar",
+              "url": "mods/tl_skin_cape_forge_1.19-1.26.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 280510,
+          "name": "AttributeFix",
+          "favorite": false,
+          "version": {
+            "id": 3823731,
+            "name": "Fabric-1.19-15.0.1",
+            "metadata": {
+              "sha1": "a27b268855a67d512ba4b1d00e2e81802d132812",
+              "size": 18892,
+              "path": "mods/AttributeFix-Fabric-1.19-15.0.1.jar",
+              "url": "/mods/280510/3823731/AttributeFix-Fabric-1.19-15.0.1.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 396094,
+          "name": "Armor Points ++  Health Stacking",
+          "favorite": false,
+          "version": {
+            "id": 3834316,
+            "name": "ArmorPoints++ v3.0.5 [FABRIC 1.19]",
+            "metadata": {
+              "sha1": "8e03abce09b7fcb78691eb32764e8b2fc97e2b37",
+              "size": 356167,
+              "path": "mods/armorpointspp-fabric-1.19-3.0.5.jar",
+              "url": "/mods/396094/3834316/armorpointspp-fabric-1.19-3.0.5.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 280510,
+              "name": "AttributeFix",
+              "gameEntityId": 280510,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 466750,
+          "name": "HealthCare",
+          "favorite": false,
+          "version": {
+            "id": 3822543,
+            "name": "[1.19] Healthcare 1.1.0",
+            "metadata": {
+              "sha1": "0b51fb55ec741758a1aa91daecbe37f08a343b5b",
+              "size": 69446,
+              "path": "mods/healthcare-1.1.0.jar",
+              "url": "/mods/466750/3822543/healthcare-1.1.0.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 274259,
+          "name": "Carry On",
+          "favorite": false,
+          "version": {
+            "id": 3828228,
+            "name": "carryon-1.19-1.18.0.1",
+            "metadata": {
+              "sha1": "ad75be5e34f98f48cd2d3ef932cefe4c306f2ad9",
+              "size": 319898,
+              "path": "mods/carryon-1.19-1.18.0.1.jar",
+              "url": "/mods/274259/3828228/carryon-1.19-1.18.0.1.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 290240,
+              "name": "ContainerFix",
+              "gameEntityId": 290240,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -174282677482900,
+          "name": "torohealth-1.18-fabric-2",
+          "favorite": false,
+          "version": {
+            "id": -174282679378400,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "ed64923e5d9107ad12eb421b4da40a12863d9731",
+              "size": 114961,
+              "path": "mods/torohealth-1.18-fabric-2.jar",
+              "url": "mods/torohealth-1.18-fabric-2.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 351725,
+          "name": "Macaw's Bridges",
+          "favorite": false,
+          "version": {
+            "id": 3827953,
+            "name": "v2.0.3  mc1.19 - Forge",
+            "metadata": {
+              "sha1": "d0bbc66681b054360a34d7aa6bddfc976d1d7d49",
+              "size": 732492,
+              "path": "mods/mcw-bridges-2.0.3-mc1.19.jar",
+              "url": "/mods/351725/3827953/mcw-bridges-2.0.3-mc1.19.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 359540,
+          "name": "Macaw's Furniture",
+          "favorite": false,
+          "version": {
+            "id": 3830457,
+            "name": "v3.0.0  mc1.19 - Forge",
+            "metadata": {
+              "sha1": "1be37a025981e9759fee868cba4ea687745a4f61",
+              "size": 1652738,
+              "path": "mods/mcw-furniture-3.0.0-mc1.19.jar",
+              "url": "/mods/359540/3830457/mcw-furniture-3.0.0-mc1.19.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 363569,
+          "name": "Macaw's Windows",
+          "favorite": false,
+          "version": {
+            "id": 3830460,
+            "name": "v2.0.3  mc1.19 - Forge",
+            "metadata": {
+              "sha1": "9d5bbc2b1c876c293cf9b082892e4ce3a14e8e81",
+              "size": 861628,
+              "path": "mods/mcw-windows-2.0.3-mc1.19.jar",
+              "url": "/mods/363569/3830460/mcw-windows-2.0.3-mc1.19.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 438116,
+          "name": "Macaw's Paintings",
+          "favorite": false,
+          "version": {
+            "id": 3828044,
+            "name": "v1.0.3  mc1.19 - Forge",
+            "metadata": {
+              "sha1": "039536a811fb0ca9566d9fbd4a137b5c52d1a75a",
+              "size": 302616,
+              "path": "mods/mcw-paintings-1.0.3-mc1.19.jar",
+              "url": "/mods/438116/3828044/mcw-paintings-1.0.3-mc1.19.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 352039,
+          "name": "Macaw's Roofs",
+          "favorite": false,
+          "version": {
+            "id": 3830465,
+            "name": "v2.1.2  mc1.19 - Forge",
+            "metadata": {
+              "sha1": "c8e16fece24d9aeb27a0ef073231821544341576",
+              "size": 1737319,
+              "path": "mods/mcw-roofs-2.1.2-mc1.19.jar",
+              "url": "/mods/352039/3830465/mcw-roofs-2.1.2-mc1.19.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 359540,
+              "name": "Macaw's Furniture",
+              "gameEntityId": 359540,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 363569,
+              "name": "Macaw's Windows",
+              "gameEntityId": 363569,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 351725,
+              "name": "Macaw's Bridges",
+              "gameEntityId": 351725,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 438116,
+              "name": "Macaw's Paintings",
+              "gameEntityId": 438116,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 400933,
+              "name": "Macaw's Trapdoors",
+              "gameEntityId": 400933,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 378646,
+              "name": "Macaw's Doors",
+              "gameEntityId": 378646,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 363703,
+          "name": "Goblin Traders",
+          "favorite": false,
+          "version": {
+            "id": 3828133,
+            "name": "1.7.2",
+            "metadata": {
+              "sha1": "b5ecbf4189cd16476b2542c6b08055e40affd11b",
+              "size": 429974,
+              "path": "mods/goblintraders-1.7.2-1.19.jar",
+              "url": "/mods/363703/3828133/goblintraders-1.7.2-1.19.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 459701,
+              "name": "Catalogue",
+              "gameEntityId": 459701,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 457570,
+              "name": "Configured",
+              "gameEntityId": 457570,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 242830,
+          "name": "Exotic Birds",
+          "favorite": false,
+          "version": {
+            "id": 3835901,
+            "name": "exoticbirds-1.19-1.0.0",
+            "metadata": {
+              "sha1": "c5c8aeb644bff23e1ce6e803d56bb5657d18548e",
+              "size": 2078319,
+              "path": "mods/exoticbirds-1.19-1.0.0.jar",
+              "url": "/mods/242830/3835901/exoticbirds-1.19-1.0.0.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 453925,
+          "name": "Macaw's Fences and Walls",
+          "favorite": false,
+          "version": {
+            "id": 3827697,
+            "name": "v1.0.5  mc1.19 - Fabric",
+            "metadata": {
+              "sha1": "103bd7947538522e3ddd43d5e336164ec1ad9019",
+              "size": 329158,
+              "path": "mods/mcw-fences-1.0.5fabric-mc1.19.jar",
+              "url": "/mods/453925/3827697/mcw-fences-1.0.5fabric-mc1.19.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 378646,
+              "name": "Macaw's Doors",
+              "gameEntityId": 378646,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 359540,
+              "name": "Macaw's Furniture",
+              "gameEntityId": 359540,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 400933,
+              "name": "Macaw's Trapdoors",
+              "gameEntityId": 400933,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 363569,
+              "name": "Macaw's Windows",
+              "gameEntityId": 363569,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 351725,
+              "name": "Macaw's Bridges",
+              "gameEntityId": 351725,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 438116,
+              "name": "Macaw's Paintings",
+              "gameEntityId": 438116,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 352039,
+              "name": "Macaw's Roofs",
+              "gameEntityId": 352039,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 384485,
+          "name": "Sleeping Bags",
+          "favorite": false,
+          "version": {
+            "id": 3823339,
+            "name": "[1.19]  1.19-1.0.0",
+            "metadata": {
+              "sha1": "b43a83fef59edddac4f467d7384af60b447ca116",
+              "size": 171766,
+              "path": "mods/sleeping_bags-1.19-1.0.0.jar",
+              "url": "/mods/384485/3823339/sleeping_bags-1.19-1.0.0.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 244256,
+          "name": "Reap Mod",
+          "favorite": false,
+          "version": {
+            "id": 3822552,
+            "name": "[1.19]  1.19-1.0.0",
+            "metadata": {
+              "sha1": "fe51f96f34d9833e8c3a09b36e30f763ba8e96ab",
+              "size": 130730,
+              "path": "mods/reap-1.19-1.0.0.jar",
+              "url": "/mods/244256/3822552/reap-1.19-1.0.0.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 358486,
+          "name": "Skin Swapper",
+          "favorite": false,
+          "version": {
+            "id": 3833625,
+            "name": "skin-swapper-fabric-3.1.2",
+            "metadata": {
+              "sha1": "87d62cf6967c001607bd650ea73b65a85d66fa4e",
+              "size": 1159915,
+              "path": "mods/skin-swapper-fabric-3.1.2.jar",
+              "url": "/mods/358486/3833625/skin-swapper-fabric-3.1.2.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 308702,
+              "name": "Mod Menu",
+              "gameEntityId": 308702,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        }
+      ],
+      "resourcePacks": [],
+      "maps": [],
+      "shaderpacks": [
+        {
+          "stateGameElement": "active",
+          "id": 322506,
+          "name": "BSL Shaders",
+          "favorite": false,
+          "version": {
+            "id": 3805263,
+            "name": "BSL v8.1.02.3",
+            "metadata": {
+              "sha1": "f369d0e64f8d1fab681ea0a0bab81216e4d7b50d",
+              "size": 918611,
+              "path": "shaderpacks/BSL_v8.1.02.3.zip",
+              "url": "/shaderpacks/322506/3805263/BSL_v8.1.02.3.zip"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 9999999,
+              "name": "OptiFine",
+              "gameEntityId": 9999999,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        }
+      ],
+      "gameVersionDTO": {
+        "id": 36,
+        "name": "1.19"
+      },
+      "forgeVersionDTO": {
+        "id": 3213,
+        "name": "41.0.38"
+      },
+      "id": -137882283776901,
+      "name": "1.0",
+      "available": false
+    },
+    "userInstall": false,
+    "populateStatus": false,
+    "available": false
+  },
+  "source": "local_version_repo",
+  "jar": "1.19",
+  "skinVersion": false
+}
